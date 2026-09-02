@@ -1,3 +1,9 @@
+#### Student Name: Oshadha Sankalpa Thambavita
+#### Student Number: 241711043
+#### Slack Handle: Oshadha Thambavita
+#### GCP Project ID: project-84bf5412-62ae-4b65-919
+
+
 # Capstone Project — Services
 
 This repository manages the **microservices** of the Capstone Project. It acts as the parent repository for the core business services required by the application.
